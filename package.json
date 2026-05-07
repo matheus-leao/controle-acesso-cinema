@@ -1,0 +1,16 @@
+{
+  "name": "controle-acesso-cinema",
+  "version": "1.0.0",
+  "description": "Leet code para criar um controle de acesso para um cinema",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha --reporter mochawesome"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "mochawesome": "^7.1.4"
+  }
+}
